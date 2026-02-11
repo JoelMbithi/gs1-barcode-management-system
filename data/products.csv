@@ -1,0 +1,83 @@
+product_name,category,manufacturer,price_ksh,tax_rate,barcode_suffix,product_line
+Maize Flour 1kg,Food Staples,Your Company Ltd,110.00,16,1001,Maize Flour Products
+Maize Flour 2kg,Food Staples,Your Company Ltd,185.00,16,1002,Maize Flour Products
+Maize Flour 5kg,Food Staples,Your Company Ltd,420.00,16,1003,Maize Flour Products
+Maize Flour 10kg,Food Staples,Your Company Ltd,780.00,16,1004,Maize Flour Products
+Maize Flour 25kg,Food Staples,Your Company Ltd,1850.00,16,1005,Maize Flour Products
+Sifted Maize Flour 2kg,Food Staples,Your Company Ltd,210.00,16,1006,Maize Flour Products
+Whole Grain Maize Flour 2kg,Food Staples,Your Company Ltd,195.00,16,1007,Maize Flour Products
+Fortified Maize Flour 2kg,Food Staples,Your Company Ltd,220.00,16,1008,Maize Flour Products
+Wheat Flour 1kg,Food Staples,Your Company Ltd,130.00,16,1101,Wheat Products
+Wheat Flour 2kg,Food Staples,Your Company Ltd,240.00,16,1102,Wheat Products
+Wheat Flour 5kg,Food Staples,Your Company Ltd,550.00,16,1103,Wheat Products
+Self-Raising Flour 1kg,Food Staples,Your Company Ltd,150.00,16,1104,Wheat Products
+Chapati Flour 2kg,Food Staples,Your Company Ltd,260.00,16,1105,Wheat Products
+Pishori Rice 1kg,Food Staples,Your Company Ltd,220.00,16,1201,Rice Products
+Pishori Rice 2kg,Food Staples,Your Company Ltd,430.00,16,1202,Rice Products
+Pishori Rice 5kg,Food Staples,Your Company Ltd,1050.00,16,1203,Rice Products
+Basmati Rice 1kg,Food Staples,Your Company Ltd,200.00,16,1204,Rice Products
+Basmati Rice 2kg,Food Staples,Your Company Ltd,390.00,16,1205,Rice Products
+Basmati Rice 5kg,Food Staples,Your Company Ltd,950.00,16,1206,Rice Products
+Kenya Rice 1kg,Food Staples,Your Company Ltd,150.00,16,1207,Rice Products
+Kenya Rice 2kg,Food Staples,Your Company Ltd,290.00,16,1208,Rice Products
+Sunflower Oil 1L,Cooking,Your Company Ltd,320.00,16,2001,Cooking Oils
+Sunflower Oil 2L,Cooking,Your Company Ltd,580.00,16,2002,Cooking Oils
+Sunflower Oil 3L,Cooking,Your Company Ltd,800.00,16,2003,Cooking Oils
+Sunflower Oil 5L,Cooking,Your Company Ltd,1250.00,16,2004,Cooking Oils
+Vegetable Oil 1L,Cooking,Your Company Ltd,280.00,16,2005,Cooking Oils
+Vegetable Oil 2L,Cooking,Your Company Ltd,520.00,16,2006,Cooking Oils
+Vegetable Oil 3L,Cooking,Your Company Ltd,750.00,16,2007,Cooking Oils
+Vegetable Oil 5L,Cooking,Your Company Ltd,1150.00,16,2008,Cooking Oils
+Olive Oil 500ml,Cooking,Your Company Ltd,650.00,16,2009,Cooking Oils
+Olive Oil 1L,Cooking,Your Company Ltd,1200.00,16,2010,Cooking Oils
+Kericho Tea Bags 25s,Beverages,Your Company Ltd,150.00,16,3001,Tea Products
+Kericho Tea Bags 50s,Beverages,Your Company Ltd,280.00,16,3002,Tea Products
+Kericho Tea Bags 100s,Beverages,Your Company Ltd,520.00,16,3003,Tea Products
+Premium Black Tea 250g,Beverages,Your Company Ltd,180.00,16,3004,Tea Products
+Premium Black Tea 500g,Beverages,Your Company Ltd,320.00,16,3005,Tea Products
+Premium Black Tea 1kg,Beverages,Your Company Ltd,600.00,16,3006,Tea Products
+Kenyan Coffee 250g,Beverages,Your Company Ltd,450.00,16,3007,Coffee Products
+Kenyan Coffee 500g,Beverages,Your Company Ltd,850.00,16,3008,Coffee Products
+Kenyan Coffee 1kg,Beverages,Your Company Ltd,1600.00,16,3009,Coffee Products
+Fresh Milk 500ml,Dairy,Your Company Ltd,45.00,0,4001,Dairy Products
+Fresh Milk 1L,Dairy,Your Company Ltd,65.00,0,4002,Dairy Products
+Fresh Milk 2L,Dairy,Your Company Ltd,120.00,0,4003,Dairy Products
+Long Life Milk 1L,Dairy,Your Company Ltd,80.00,16,4004,Dairy Products
+Yoghurt 250ml,Dairy,Your Company Ltd,70.00,16,4005,Dairy Products
+Yoghurt 500ml,Dairy,Your Company Ltd,120.00,16,4006,Dairy Products
+Yoghurt 1L,Dairy,Your Company Ltd,220.00,16,4007,Dairy Products
+Fermented Milk 500ml,Dairy,Your Company Ltd,90.00,16,4008,Dairy Products
+Butter 250g,Dairy,Your Company Ltd,280.00,16,4009,Dairy Products
+Cheese 200g,Dairy,Your Company Ltd,350.00,16,4010,Dairy Products
+White Sugar 1kg,Food Staples,Your Company Ltd,220.00,16,5001,Sugar Products
+White Sugar 2kg,Food Staples,Your Company Ltd,430.00,16,5002,Sugar Products
+White Sugar 5kg,Food Staples,Your Company Ltd,1050.00,16,5003,Sugar Products
+Brown Sugar 1kg,Food Staples,Your Company Ltd,250.00,16,5004,Sugar Products
+Brown Sugar 2kg,Food Staples,Your Company Ltd,490.00,16,5005,Sugar Products
+Orange Juice 1L,Beverages,Your Company Ltd,180.00,16,6001,Beverages
+Mango Juice 1L,Beverages,Your Company Ltd,180.00,16,6002,Beverages
+Pineapple Juice 1L,Beverages,Your Company Ltd,180.00,16,6003,Beverages
+Passion Juice 1L,Beverages,Your Company Ltd,200.00,16,6004,Beverages
+Soda 300ml,Beverages,Your Company Ltd,45.00,16,6005,Beverages
+Soda 500ml,Beverages,Your Company Ltd,65.00,16,6006,Beverages
+Water 500ml,Beverages,Your Company Ltd,25.00,16,6007,Beverages
+Water 1L,Beverages,Your Company Ltd,40.00,16,6008,Beverages
+Water 5L,Beverages,Your Company Ltd,150.00,16,6009,Beverages
+Laundry Soap 400g,Household,Your Company Ltd,85.00,16,7001,Household Products
+Laundry Soap 800g,Household,Your Company Ltd,150.00,16,7002,Household Products
+Washing Powder 1kg,Household,Your Company Ltd,320.00,16,7003,Household Products
+Washing Powder 2kg,Household,Your Company Ltd,600.00,16,7004,Household Products
+Dish Soap 500ml,Household,Your Company Ltd,120.00,16,7005,Household Products
+Dish Soap 1L,Household,Your Company Ltd,220.00,16,7006,Household Products
+Toilet Cleaner 750ml,Household,Your Company Ltd,180.00,16,7007,Household Products
+Floor Cleaner 1L,Household,Your Company Ltd,200.00,16,7008,Household Products
+Bar Soap 150g,Personal Care,Your Company Ltd,55.00,16,8001,Personal Care
+Bar Soap 250g,Personal Care,Your Company Ltd,85.00,16,8002,Personal Care
+Toothpaste 100g,Personal Care,Your Company Ltd,120.00,16,8003,Personal Care
+Toothpaste 150g,Personal Care,Your Company Ltd,170.00,16,8004,Personal Care
+Shampoo 250ml,Personal Care,Your Company Ltd,280.00,16,8005,Personal Care
+Shampoo 500ml,Personal Care,Your Company Ltd,520.00,16,8006,Personal Care
+Conditioner 250ml,Personal Care,Your Company Ltd,280.00,16,8007,Personal Care
+Conditioner 500ml,Personal Care,Your Company Ltd,520.00,16,8008,Personal Care
+Body Lotion 250ml,Personal Care,Your Company Ltd,320.00,16,8009,Personal Care
+Body Lotion 500ml,Personal Care,Your Company Ltd,580.00,16,8010,Personal Care

@@ -1,0 +1,28 @@
+{
+  "company_registration": {
+    "name": "YOUR COMPANY NAME LTD",
+    "registration_number": "C123456",
+    "kra_pin": "P051234567K",
+    "address": "P.O. Box 12345-00100, Nairobi",
+    "phone": "+254 700 000000",
+    "email": "info@yourcompany.co.ke"
+  },
+  "gs1_kenya_certificate": {
+    "certificate_number": "GS1-KE-2024-12345",
+    "issue_date": "2024-01-15",
+    "expiry_date": "2025-12-31",
+    "prefix": "61412345",
+    "barcode_range": {
+      "start": "6141234500000",
+      "end": "6141234599999"
+    }
+  },
+  "payment_history": [
+    {
+      "invoice_number": "INV-2024-001",
+      "amount": 25000,
+      "payment_date": "2024-01-15",
+      "valid_until": "2025-12-31"
+    }
+  ]
+}

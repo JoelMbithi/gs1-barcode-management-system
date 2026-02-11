@@ -1,0 +1,20 @@
+{
+  "company_prefix": "61412345",
+  "last_used_number": 6141234500999,
+  "used_numbers": [
+    {
+      "barcode_12": "6141234500001",
+      "assigned_date": "2024-01-15T10:30:00",
+      "product_code": "00001",
+      "product_name": "Maize Flour 2kg"
+    }
+  ],
+  "reserved_ranges": [
+    {
+      "start": "6141234501000",
+      "end": "6141234501999",
+      "product_line": "Maize Flour Products",
+      "reserved_date": "2024-01-15T11:00:00"
+    }
+  ]
+}
