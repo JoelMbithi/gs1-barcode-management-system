@@ -30,7 +30,7 @@ class KenyaLegalBarcodeGenerator:
         print("-" * 60)
         print(f"Company: {config.YOUR_COMPANY_NAME}")
         print(f"GS1 Prefix: {config.YOUR_COMPANY_PREFIX}")
-        print(f"Status: {'✅ LEGAL' if self.legal_status['can_sell'] else '⚠️ DEMO'}")
+        print(f"Status: {'LEGAL' if self.legal_status['can_sell'] else ' DEMO'}")
         print(f"Valid Until: {config.GS1_MEMBERSHIP_EXPIRY}")
         print("=" * 60 + "\n")
              
@@ -78,7 +78,7 @@ class KenyaLegalBarcodeGenerator:
         # STEP 2: Get next available barcode number
         try:
             if custom_suffix is not None:
-                # ✅ FIXED: Use suffix as-is without zfill(5)!
+                # FIXED: Use suffix as-is without zfill(5)!
                 suffix_str = str(custom_suffix)
                 barcode_12 = f"{self.series_manager.company_prefix}{suffix_str}"
                 
@@ -129,7 +129,7 @@ class KenyaLegalBarcodeGenerator:
             
             # Determine status (LEGAL or DEMO)
             is_legal = self.legal_status['can_sell'] and not self.verifier.is_demo_mode
-            status = "✅ LEGAL" if is_legal else "⚠️ DEMO"
+            status = "LEGAL" if is_legal else " DEMO"
             status_text = "GS1 Kenya Registered" if is_legal else "DEMO MODE - Not for retail"
             
             # Print success with verification
@@ -164,7 +164,7 @@ class KenyaLegalBarcodeGenerator:
             start_suffix, end_suffix, product_line
         )
         
-        print(f"\n✅ RANGE RESERVED FOR: {product_line}")
+        print(f"\nRANGE RESERVED FOR: {product_line}")
         print(f"   From: {reserved['start']}")
         print(f"   To:   {reserved['end']}")
         print(f"   Total: {end_suffix - start_suffix + 1} products")
